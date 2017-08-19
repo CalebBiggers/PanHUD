@@ -7198,7 +7198,7 @@ Scheme
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 			"draw_corner_height" 	"0"	
 		}
-BackpackItemBorder_PaintkitWeapon
+		BackpackItemBorder_PaintkitWeapon
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
@@ -8207,22 +8207,22 @@ BackpackItemBorder_PaintkitWeapon
 		}
 		"10" 
 		{
-			"font" "resource/fonts/Solomon Heavy.ttf"
+			"font" "resource/fonts/Solomon Normal.ttf"
 			"name" "Solomon Heavy"
 		}
 		"11" 
 		{
-            "font" "resource/fonts/Solomon Heavy.otf"
+            "font" "resource/fonts/Solomon Normal.otf"
 			"name" "Solomon Heavy"
 		}	
 		"12" 
 		{
-			"font" "resource/fonts/Solomon-Normal.otf"
+			"font" "resource/fonts/Solomon Normal.otf"
 			"name" "Solomon-Normal"
 		}		
 		"13" 
 		{
-            "font" "resource/fonts/Solomon-Normal.otf"
+            "font" "resource/fonts/Solomon Normal.otf"
 			"name" "Solomon-Normal"
 		}
 		"14"
@@ -8287,7 +8287,7 @@ BackpackItemBorder_PaintkitWeapon
 		}
 		"26"
 		{
-			"font"	"resource/fonts/Solomon Heavy.ttf"
+			"font"	"resource/fonts/Solomon Normal.ttf"
 			"name"	"solFontBold"
 		}
 	}
