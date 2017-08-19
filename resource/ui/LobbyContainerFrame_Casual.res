@@ -1024,5 +1024,39 @@
 				"scaleImage"	"1"
 			}				
 		}			
+	}
+	
+	"Tooltip_CasualLobby"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"Tooltip_CasualLobby"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"10000"
+		"wide"			"300"
+		"tall"			"0"
+		"visible"		"0"
+		"PaintBackgroundType"	"2"
+		"border"		"MainMenuBGBorder"
+		
+		"TipLabel"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"TipLabel"
+			"font"			"HudFontSmallestBold"
+			"labelText"		"%tiptext%"
+			"textAlignment"	"west"
+			"xpos"			"20"
+			"ypos"			"10"
+			"zpos"			"2"
+			"wide"			"100"
+			"tall"			"10"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor_override"	"TanLight"
+			"auto_wide_tocontents"	"1"
+		}
 	}	
 }
